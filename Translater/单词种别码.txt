@@ -1,0 +1,27 @@
+单词符号   种别码    
+关键字	   大写                         
+标识符     ID           
+整数       INT10            
++          ADD
+++ 	   INC               
+-          SUB
+--         DEC            
+*          MUL             
+/          DIV    
+**         POW             
+==         COMP  //比较           
+<          LT            
+<>         NEQ           
+<=         LTE           
+>          GT         
+>=         GTE          
+=          EQ         
+[          MLP          
+]          MRP         
+;          SEMI           
+(          SLP          
+)          SRP
+!=	   NEQ
+,	   COMM	 //逗号
+{	   LP
+}	   RP

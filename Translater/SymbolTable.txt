@@ -1,0 +1,5 @@
+a,ID,a
+b,ID,b
+c,ID,c
+NUM,INT10,2
+NUM,INT10,1

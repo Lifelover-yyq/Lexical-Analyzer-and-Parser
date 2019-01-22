@@ -18,6 +18,7 @@ c = a-b;
 产生式：               
 注：P为文法的开始符号
 说明语句部分文法：
+```
         P’-> P
         P → D S
         P → S
@@ -25,8 +26,9 @@ c = a-b;
         D →L id ; 
         L → int
         L → float
-
+```
 程序语句部分文法：
+```
         S → id = E;	     
         S → if （C）  S1   
         S → if （C）  S1   else   S2
@@ -43,8 +45,9 @@ c = a-b;
         T → T1 * F 			
         T → T1 / F 			
         F → ( E )			  
-	      F → id 
+	F → id 
         F → int10
+```	
 ## 使用手册
 导入`java`项目`Translater`至`eclipse`等IDE，运行程序`BeginMain.java`。
 ### 文件解释

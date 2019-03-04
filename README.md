@@ -47,6 +47,7 @@ c = a-b;
 	F → id 
         F → int10
 ```	
+说明：删去了产生式 D → ε ，对原文档所给产生式进行了微调使得能够运行。
 ## 使用手册
 导入`java`项目`Translater`至`eclipse`等IDE，运行程序`BeginMain.java`。
 ### 文件解释
